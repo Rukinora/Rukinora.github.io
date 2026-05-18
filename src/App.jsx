@@ -165,7 +165,7 @@ function App() {
             <p className="eyebrow">Hi, I’m Ruben</p>
             <h1>Building automation and full-stack tools that solve real workflows.</h1>
             <p className="hero-copy">
-              I am a Computer Science student at California State University, Los Angeles,
+              I am a Computer Science Graduate from California State University, Los Angeles,
               focused on software development, automation, and polished user experiences.
               I enjoy turning ideas into projects that help teams move faster and reduce manual work.
             </p>
