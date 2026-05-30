@@ -1,0 +1,7 @@
+git push origin main            
+
+
+
+git add .github/workflows/deploy.yml
+git commit -m "Switch to official GitHub Pages deployment actions"
+git push origin main
